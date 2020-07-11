@@ -11,7 +11,7 @@ const APP_SHELL_STATIC = [
     'styles/style.css',
     'scripts/script.js',
     'pages/materia.html',
-    'images/favicon.png',
+    'images/favicon.ico',
     'scripts/sw-utils.js',
     'images/icons/android-icon-36.png',
     'images/icons/android-icon-48.png',

@@ -13,11 +13,13 @@ const APP_SHELL_STATIC = [
     'pages/materia.html',
     'images/favicon.png',
     'scripts/sw-utils.js',
-    'images/icons/android-icon-48x48.png',
-    'images/icons/android-icon-72x72.png',
-    'images/icons/android-icon-96x96.png',
-    'images/icons/android-icon-144x144.png',
-    'images/icons/android-icon-192x192.png'
+    'images/icons/android-icon-36.png',
+    'images/icons/android-icon-48.png',
+    'images/icons/android-icon-72.png',
+    'images/icons/android-icon-96.png',
+    'images/icons/android-icon-144.png',
+    'images/icons/android-icon-192.png',
+    'images/icons/android-icon-512.png'
 ];
 
 const APP_SHELL_INMUTABLE = [
